@@ -1,5 +1,5 @@
-package Basics;
-import java.util.Scanner;
+package Basics.FirstClass;
+
 public class TypeCasting {
     public static void main(String[] args) {
 //        Scanner input = new Scanner(System.in);

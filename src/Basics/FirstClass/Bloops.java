@@ -1,4 +1,4 @@
-package Basics;
+package Basics.FirstClass;
 
 public class Bloops {
     public static void main(String[] args) {
